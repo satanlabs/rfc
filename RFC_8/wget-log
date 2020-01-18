@@ -1,0 +1,11 @@
+--2020-01-12 03:28:08--  https://www.rfc-editor.org/rfc/rfc8.html
+Resolving www.rfc-editor.org (www.rfc-editor.org)... 4.31.198.49, 2001:1900:3001:11::31
+Connecting to www.rfc-editor.org (www.rfc-editor.org)|4.31.198.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6455 (6.3K) [text/html]
+Saving to: ‘rfc8.html’
+
+rfc8.html                                 0%[                                                                              ]       0  --.-KB/s               rfc8.html                               100%[=============================================================================>]   6.30K  --.-KB/s    in 0s      
+
+2020-01-12 03:28:10 (36.0 MB/s) - ‘rfc8.html’ saved [6455/6455]
+

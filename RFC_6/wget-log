@@ -1,0 +1,11 @@
+--2020-01-12 03:28:02--  https://www.rfc-editor.org/rfc/rfc6.html
+Resolving www.rfc-editor.org (www.rfc-editor.org)... 4.31.198.49, 2001:1900:3001:11::31
+Connecting to www.rfc-editor.org (www.rfc-editor.org)|4.31.198.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘rfc6.html’
+
+rfc6.html                                   [<=>                                                                           ]       0  --.-KB/s               rfc6.html                                   [ <=>                                                                          ]   8.80K  --.-KB/s    in 0s      
+
+2020-01-12 03:28:03 (28.4 MB/s) - ‘rfc6.html’ saved [9012]
+
