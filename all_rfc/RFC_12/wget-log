@@ -1,11 +1,0 @@
---2020-01-12 03:28:22--  https://www.rfc-editor.org/rfc/rfc12.html
-Resolving www.rfc-editor.org (www.rfc-editor.org)... 4.31.198.49, 2001:1900:3001:11::31
-Connecting to www.rfc-editor.org (www.rfc-editor.org)|4.31.198.49|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘rfc12.html’
-
-rfc12.html                                  [<=>                                                                           ]       0  --.-KB/s               rfc12.html                                  [ <=>                                                                          ]  15.07K  58.1KB/s               rfc12.html                                  [  <=>                                                                         ]  17.06K  65.7KB/s    in 0.3s    
-
-2020-01-12 03:28:24 (65.7 KB/s) - ‘rfc12.html’ saved [17474]
-
